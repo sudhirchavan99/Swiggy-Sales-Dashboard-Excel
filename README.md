@@ -67,8 +67,7 @@ The dashboard highlights the following metrics:
 Swiggy-Sales-Dashboard-Excel<br>
  ┣ 📄 Swiggy Sales Data Dashboard.xlsx<br>
  ┣ 📄 README.md<br>
- ┗ 📁 Screenshots<br>
-      ┗ dashboard.png
+ ┗ 🖼 dashboard.png
 #
 ## 🚀 Key Insights From Analysis
 - Bangalore is the highest revenue generating city
